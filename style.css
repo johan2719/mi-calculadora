@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+
+    background-color:#a7ccec;
+    
+}
+h1{
+    color: red;
+}
+input{
+    display: block; 
+    margin: auto;
+    margin-bottom: 15px;
+}
